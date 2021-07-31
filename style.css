@@ -1,0 +1,26 @@
+body {
+    background-color:azure;
+    text-align: center;
+    
+}
+
+h1 {
+    color:salmon;
+    font-size: 60px;
+    font-family: cursive;
+}
+
+p{
+    font-size:20px;
+    font-family: fantasy;
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+hr{
+    width:50%;
+    height:4px;
+    color:gray;
+    background-color: gray;
+}
